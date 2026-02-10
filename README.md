@@ -56,4 +56,8 @@ module9 — Functions & Array Processing in real world context
 Example of projects:
 - Functional calculator (module4)
 - Password security programme (module2)
+----------------------------------------------------------------------------------------------------------------------------
+To run the code:
+- use python3 (name of file).py (if it doesn't have shebang)
+- use ./(name of file).py (if it has shebang)
   
