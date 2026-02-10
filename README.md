@@ -7,13 +7,13 @@ module0 --- Covers the basics of printing tasks in Python . In this repository ,
 
 module1 --- Covers the basics of variables and strings . In this repository , I will be using my name and my age as examples of the tasks.
 
-module2 --- Covers the basics of if-else statements . In this repository , I will be involving integers for the tasks.
+module2 --- Covers the basics of if-else-elif statements .
 
-module3 --- Covers the basics of while loops . In this repository , I will also be involving integers for the tasks.
+module3 --- Covers the basics of while loops .
 
-module4 --- Covers the tasks involving the combination of module0 to module4 to create things like a working calculator and also age calculator after a certain years . I will also be learning about concepts such as the concept of floats , import math and math.ceil() function and also swapcase function.
+module4 --- Covers the tasks involving the combination of module0 to module4 to create things and concepts such as floats , import math function , math.ceil() and swapcase.
 
-module5 --- Covers the array concept . In this module , I will be manipulating around arrays . This module also introduces sets and also parameters (for module 6).
+module5 --- Covers the array concept , where I will be manipulating around arrays . This module also introduces sets and parameters.
 
 module6 --- Covers the parameters in a much immersive manner , where I will be using import system function , sys.argv and also the re.findall option . I will also be using for loops in this section (carrying the concept from module3).
 
