@@ -18,6 +18,7 @@ module2 — Conditional Logic
 - Decision-making structures
 (Example of projects involving this module : Password security programme)
 
+
 module3 — Iteration
 - while loops
 - Repetition and flow control
@@ -28,6 +29,7 @@ module4 — Combined Concepts
 - math module usage (math.ceil)
 - String transformations (swapcase)
 (Example of projects involving this module : A functional calculator)
+
 
 module5 — Data Structures & Parameters
 - Python lists (array concepts)
