@@ -30,12 +30,20 @@ module5 — Data Structures & Parameters
 - Introduction to sets
 - Function parameters and argument handling
 
-module6 — Command-Line Arguments 
+module6 — Command Line Arguments 
 - sys module (sys.argv)
 - Pattern matching with re.findall()
 - for loops (carry over from module3)
+
 
 module7 — Advanced Parameter Handling
 - Argument validation
 - Program termination using sys.exit()
 - Range-based iteration (range())
+
+module9 - module9 — Functions & Array Processing in real world context
+- Implementing functions to process list data
+- Calculating averages from numerical datasets
+- Iterating through arrays (lists)
+- Basic data aggregation techniques
+  
