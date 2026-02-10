@@ -16,7 +16,6 @@ module1 — Variables & Strings
 module2 — Conditional Logic
 - if / elif / else statements
 - Decision-making structures
-(Example of projects involving this module : Password security programme)
 
 
 module3 — Iteration
@@ -28,7 +27,6 @@ module4 — Combined Concepts
 - Floating-point operations
 - math module usage (math.ceil)
 - String transformations (swapcase)
-(Example of projects involving this module : A functional calculator)
 
 
 module5 — Data Structures & Parameters
@@ -54,4 +52,8 @@ module9 — Functions & Array Processing in real world context
 - Calculating averages from numerical datasets
 - Iterating through arrays (lists)
 - Basic data aggregation techniques
+-----------------------------------------------------------------------------------------------------------------------------
+Example of projects:
+- WORKING and FUNCTIONAL calculator (module4)
+- Password security programme (module2)
   
