@@ -1,5 +1,6 @@
 # 42KL-Discovery-Piscine-Python-my-project-work-Feb-2026-
-This repository will mainly cover the fundamentals of Python that I covered throughout the program between the 2nd to 6th of February 2026 such as dealing with conditional logic , variables&strings and data structures . This repository documents my learning progress throughout the program.
+his repository contains Python exercises and practice work completed during the 42 Kuala Lumpur Discovery Piscine Python program (2–6 February 2026). The repository reflects hands-on learning and progressive skill
+development across structured modules.
 
 Below are the table of contents and what to expect in the repository:
 
