@@ -42,7 +42,7 @@ module7 — Advanced Parameter Handling
 - Program termination using sys.exit()
 - Range-based iteration (range())
 
-module8 - did not complete throughout the program.
+module8 - did not complete throughout the program due to time constraints.
 
 module9 — Functions & Array Processing in real world context
 - Implementing functions to process list data
