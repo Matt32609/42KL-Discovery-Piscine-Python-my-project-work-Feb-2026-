@@ -54,6 +54,6 @@ module9 — Functions & Array Processing in real world context
 - Basic data aggregation techniques
 -----------------------------------------------------------------------------------------------------------------------------
 Example of projects:
-- WORKING and FUNCTIONAL calculator (module4)
+- Functional calculator (module4)
 - Password security programme (module2)
   
