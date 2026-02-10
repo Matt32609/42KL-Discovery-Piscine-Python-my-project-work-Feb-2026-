@@ -41,7 +41,7 @@ module7 — Advanced Parameter Handling
 - Program termination using sys.exit()
 - Range-based iteration (range())
 
-module9 - module9 — Functions & Array Processing in real world context
+module9 — Functions & Array Processing in real world context
 - Implementing functions to process list data
 - Calculating averages from numerical datasets
 - Iterating through arrays (lists)
