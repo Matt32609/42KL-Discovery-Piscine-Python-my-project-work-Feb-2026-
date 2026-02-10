@@ -11,7 +11,7 @@ module2 --- Covers the basics of if-else-elif statements .
 
 module3 --- Covers the basics of while loops .
 
-module4 --- Covers the tasks involving the combination of module0 to module4 to create things and concepts such as floats , import math function , math.ceil() and swapcase.
+module4 --- Covers the tasks involving the combination of module0 to module4 and also involving concepts such as floats , import math function , math.ceil() and swapcase.
 
 module5 --- Covers the array concept , where I will be manipulating around arrays . This module also introduces sets and parameters.
 
