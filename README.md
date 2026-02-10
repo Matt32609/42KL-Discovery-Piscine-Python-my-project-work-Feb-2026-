@@ -3,18 +3,39 @@ This repository will mainly cover the fundamentals of Python that I've had cover
 
 Below are the table of contents and what to expect in the file:
 
-module0 --- Covers the basics of printing tasks in Python . In this repository , I will be uploading the print hello_world code.
+module0 — Output Fundamentals
+- Basic print statements
+- Introductory Python syntax using simple output programs
 
-module1 --- Covers the basics of variables and strings . In this repository , I will be using my name and my age as examples of the tasks.
+module1 — Variables & Strings
+- Variable declaration and usage
+- String manipulation and formatting examples
 
-module2 --- Covers the basics of if-else-elif statements .
+module2 — Conditional Logic
+- if / elif / else statements
+- Decision-making structures
 
-module3 --- Covers the basics of while loops .
+module3 — Iteration
+- while loops
+- Repetition and flow control
 
-module4 --- Covers the tasks involving the combination of module0 to module4 and also involving concepts such as floats , import math function , math.ceil() and swapcase.
+module4 — Combined Concepts
+- Integration of previous modules
+- Floating-point operations
+- math module usage (math.ceil)
+- String transformations (swapcase)
 
-module5 --- Covers the array concept , where I will be manipulating around arrays . This module also introduces sets and parameters.
+module5 — Data Structures & Parameters
+- Python lists (array concepts)
+- Introduction to sets
+- Function parameters and argument handling
 
-module6 --- Covers the parameters in a much immersive manner , where I will be using import system function , sys.argv and also the re.findall option . I will also be using for loops in this section (carrying the concept from module3).
+module6 — Command-Line Arguments 
+- sys module (sys.argv)
+- Pattern matching with re.findall()
+- for loops (carry over from module3)
 
-module7 --- Covers the parameters and for loops concept in a much immersive manner . I will also use the sys.exit() function when the sys,argv is not equal (!=) to certain number of arguments . I will also be learning about the range function.
+module7 — Advanced Parameter Handling
+- Argument validation
+- Program termination using sys.exit()
+- Range-based iteration (range())
