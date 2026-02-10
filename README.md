@@ -1,5 +1,5 @@
-# 42KL-Discovery-Piscine-Python-my-project-work-Feb-2026-
-his repository contains Python exercises and practice work completed during the 42 Kuala Lumpur Discovery Piscine Python program (2–6 February 2026). The repository reflects hands-on learning and progressive skill
+42KL Discovery Piscine Python project work (Feb 2026)
+This repository contains Python exercises and practice work completed during the 42 Kuala Lumpur Discovery Piscine Python program (2–6 February 2026). The repository reflects hands-on learning and progressive skill
 development across structured modules.
 
 Below are the table of contents and what to expect in the repository:
