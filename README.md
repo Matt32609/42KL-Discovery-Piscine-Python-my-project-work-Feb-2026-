@@ -57,7 +57,7 @@ Example of projects:
 - Functional calculator (module4)
 - Password security programme (module2)
 ----------------------------------------------------------------------------------------------------------------------------
-To run the code:
+To run the code on the terminal:
 - use python3 (name of file).py (if it doesn't have shebang)
 - use ./(name of file).py (if it has shebang)
   
