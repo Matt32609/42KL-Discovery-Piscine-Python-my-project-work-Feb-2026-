@@ -16,6 +16,7 @@ module1 — Variables & Strings
 module2 — Conditional Logic
 - if / elif / else statements
 - Decision-making structures
+(Example of projects involving this module : Password security programme)
 
 module3 — Iteration
 - while loops
@@ -26,6 +27,7 @@ module4 — Combined Concepts
 - Floating-point operations
 - math module usage (math.ceil)
 - String transformations (swapcase)
+(Example of projects involving this module : A functional calculator)
 
 module5 — Data Structures & Parameters
 - Python lists (array concepts)
