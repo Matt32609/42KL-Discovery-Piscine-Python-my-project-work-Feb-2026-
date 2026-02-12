@@ -3,6 +3,8 @@
 This repository contains Python exercises and practice work completed during the 42 Kuala Lumpur Discovery Piscine Python program (2–6 February 2026). The repository reflects hands-on learning and progressive skill
 development across structured modules.
 
+Certification: https://drive.google.com/drive/folders/1KaZ2xn9o5ZbQdxk-2UQeacA1bUYEq2Ds
+
 Below are the table of contents and what to expect in the repository:
 ------------------------------------------------------------------------------------------------------------------------------------------
 module0 — Output Fundamentals
