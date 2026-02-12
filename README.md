@@ -54,12 +54,14 @@ module9 — Functions & Array Processing in real world context
 - Calculating averages from numerical datasets
 - Iterating through arrays (lists)
 - Basic data aggregation techniques
------------------------------------------------------------------------------------------------------------------------------
+
 Example of projects:
+-----------------------------------------------------------------------------------------------------------------------------
 - Functional calculator (module4)
 - Password security programme (module2)
+
+To run the code using the terminal:
 ----------------------------------------------------------------------------------------------------------------------------
-To run the code on the terminal:
 - use python3 (name of file).py (if it doesn't have shebang)
 - use ./(name of file).py (if it has shebang)
 
