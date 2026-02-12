@@ -62,15 +62,18 @@ Example of projects:
 To run the code on the terminal:
 - use python3 (name of file).py (if it doesn't have shebang)
 - use ./(name of file).py (if it has shebang)
-------------------------------------------------------------------------------------------------------------------------
-Skills Demonstrated:
 
+Skills Demonstrated:
+------------------------------------------------------------------------------------------------------------------------
 - Python fundamentals
+Applying core syntax, variables, data types, and standard library usage across structured exercises.
 
 - Problem solving
+Breaking down programming tasks into logical steps and iteratively refining solutions.
 
 - Program flow control
+Designing execution paths using conditionals, loops, and function structure
 
 - Data handling
+Working with lists, sets, and numerical datasets for processing and aggregation
 
-- Command line interaction
