@@ -83,3 +83,11 @@ Designing execution paths using conditionals, loops, and function structure
 
 Working with lists, sets, and numerical datasets for processing and aggregation
 
+- Self-Directed Research
+
+Navigating the 42 "teacherless" environment by synthesizing information from documentation and peer-to-peer technical exchanges.
+
+- Technical Literacy
+
+Translating abstract constraints from 42 subjects into functional, bug-free Python scripts.
+
