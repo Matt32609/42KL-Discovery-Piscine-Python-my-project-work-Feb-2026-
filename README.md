@@ -68,14 +68,18 @@ To run the code using the terminal:
 Skills Demonstrated:
 ------------------------------------------------------------------------------------------------------------------------
 - Python fundamentals
+
 Applying core syntax, variables, data types, and standard library usage across structured exercises.
 
 - Problem solving
+
 Breaking down programming tasks into logical steps and iteratively refining solutions.
 
 - Program flow control
+
 Designing execution paths using conditionals, loops, and function structure
 
 - Data handling
+
 Working with lists, sets, and numerical datasets for processing and aggregation
 
