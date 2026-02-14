@@ -3,7 +3,8 @@
 This repository contains Python exercises and practice work completed during the 42 Kuala Lumpur Discovery Piscine Python program (2–6 February 2026). The repository reflects hands-on learning and progressive skill
 development across structured modules.
 
-Certification: https://drive.google.com/drive/folders/1KaZ2xn9o5ZbQdxk-2UQeacA1bUYEq2Ds
+Certification: 
+![Screenshot_20260212_231949_Samsung_Notes](https://github.com/user-attachments/assets/f3d6962e-0e5a-488b-bb84-3d5c0f19555b)
 
 Below are the table of contents and what to expect in the repository:
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -14,6 +15,7 @@ module0 — Output Fundamentals
 module1 — Variables & Strings
 - Variable declaration and usage
 - String manipulation and formatting examples
+
 
 module2 — Conditional Logic
 - if / elif / else statements
